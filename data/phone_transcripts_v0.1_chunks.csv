@@ -1,0 +1,517 @@
+call_id,chunk_id,date,duration,speaker,transcript
+1,1_1,2025-01-15,23520,Caller,"Caller: Hi there, I recently purchased a blender from your site, but it's making this awful grinding noise after just a couple of uses. I'm really disappointed because I was looking forward to making smoothies every morning."
+1,1_2,2025-01-15,23520,Agent,Agent: I'm so sorry to hear about that issue with your blender. Could you please provide me with the order number so I can look into this for you?
+1,1_3,2025-01-15,23520,Caller,"Caller: Sure, the order number is 45678. Do you think this is something that's covered under the warranty, or will I have to pay for repairs?"
+1,1_4,2025-01-15,23520,Agent,"Agent: Absolutely, this sounds like a manufacturing defect, so it's fully covered. Would you prefer a replacement or a refund? Also, do you still have the original packaging?"
+1,1_5,2025-01-15,23520,Caller,"Caller: I'd love a replacement, please. Yes, I kept the box just in case. Thank you so much for helping me out with this."
+1,1_6,2025-01-15,23520,Agent,"Agent: No problem at all. I'll process that replacement right away, and you should receive it within 3-5 business days."
+2,2_1,2025-02-20,27900,Caller,"Caller: Hello, I was wondering if your webshop ships products to Canada, and if so, what are the shipping fees and estimated delivery times? I'm interested in ordering some electronics."
+2,2_2,2025-02-20,27900,Agent,"Agent: Yes, we do offer international shipping to Canada. The flat rate fee is $15, and it typically takes about 7-10 business days depending on customs."
+2,2_3,2025-02-20,27900,Caller,"Caller: That sounds reasonable. Is there any way to track the package once it's shipped, and do you handle any customs duties?"
+2,2_4,2025-02-20,27900,Agent,"Agent: Definitely, you'll get a tracking number via email. As for customs, those are the responsibility of the customer, but we can provide invoices if needed."
+2,2_5,2025-02-20,27900,Caller,"Caller: Alright, that's helpful. I think I'll go ahead and place the order now. Thanks for the information!"
+2,2_6,2025-02-20,27900,Agent,"Agent: You're welcome! If you run into any issues during checkout, feel free to call back."
+3,3_1,2025-03-10,19080,Caller,"Caller: The pair of shoes I ordered arrived, but they're a size too small and pinching my toes. Can I exchange them for the next size up?"
+3,3_2,2025-03-10,19080,Agent,"Agent: Of course, we're happy to help with exchanges. What's your order ID, and what size would you like instead?"
+3,3_3,2025-03-10,19080,Caller,"Caller: The order ID is 98765, and I'd like a size 9 instead of 8. Are they in stock right now?"
+3,3_4,2025-03-10,19080,Agent,"Agent: Let me check—yes, size 9 is available. I'll email you a return label, and the new pair will ship once we receive the old ones."
+3,3_5,2025-03-10,19080,Caller,"Caller: Perfect, and how can I track the status of the new shipment? Thanks for making this easy."
+4,4_1,2025-04-05,29400,Caller,"Caller: Hi, I'm shopping for wireless earbuds and need some recommendations for ones under $50 that have decent sound quality for everyday use like commuting and workouts."
+4,4_2,2025-04-05,29400,Agent,"Agent: We have the SoundPro model priced at $45, which has excellent reviews for battery life and comfort during activities."
+4,4_3,2025-04-05,29400,Caller,"Caller: Does it come with noise cancellation, or is that only on higher-end models? Also, are they sweat-resistant?"
+4,4_4,2025-04-05,29400,Agent,"Agent: No noise cancellation on this one, but it does have good passive isolation and is IPX4 sweat-resistant. Would you like me to add it to your cart?"
+4,4_5,2025-04-05,29400,Caller,"Caller: Yes, please do that. One more thing— what's the return policy if they don't fit well?"
+4,4_6,2025-04-05,29400,Agent,Agent: You have 30 days to return for a full refund. I've added it; you can proceed to checkout now.
+5,5_1,2025-05-22,15900,Caller,"Caller: I see a pending charge on my credit card from your store, but I haven't received any order confirmation email yet. Is everything okay?"
+5,5_2,2025-05-22,15900,Agent,Agent: Let me verify that for you. Do you have an order number or the email associated with the purchase?
+5,5_3,2025-05-22,15900,Caller,"Caller: I don't have an order number, but my email is example@email.com."
+5,5_4,2025-05-22,15900,Agent,"Agent: Thanks, it looks like the order processed successfully, and the confirmation should be in your inbox shortly—check spam if needed."
+5,5_5,2025-05-22,15900,Caller,"Caller: Okay, I'll do that. Thanks for checking!"
+6,6_1,2025-06-18,32700,Caller,"Caller: Hello, I'd like to have my order gift-wrapped with a personal note inside. Is that something you can do, and how much extra does it cost?"
+6,6_2,2025-06-18,32700,Agent,"Agent: Yes, we offer gift wrapping for an additional $5. What would you like the note to say?"
+6,6_3,2025-06-18,32700,Caller,"Caller: Please write ""Happy Birthday, with love from Mom."" Also, is there an option for express shipping to make sure it arrives on time?"
+6,6_4,2025-06-18,32700,Agent,"Agent: Got the note. Express shipping is available for $10 more, which cuts delivery to 2-3 days."
+6,6_5,2025-06-18,32700,Caller,"Caller: Let's add both, please. The order number is 33445 if that helps."
+6,6_6,2025-06-18,32700,Agent,Agent: All set—wrapping and express added. It should arrive by the date you need. Anything else today?
+7,7_1,2025-07-09,24000,Caller,"Caller: I just received the book I ordered, but several pages are missing, and the binding seems loose. This is really frustrating as it was a gift."
+7,7_2,2025-07-09,24000,Agent,Agent: I'm truly sorry for the poor quality. Can you give me the order details so I can arrange a resolution?
+7,7_3,2025-07-09,24000,Caller,"Caller: Order number 11223. I'd prefer a full refund rather than a replacement, if possible."
+7,7_4,2025-07-09,24000,Agent,"Agent: Understood. Do you want to return it, or can we just process the refund since it's defective?"
+7,7_5,2025-07-09,24000,Caller,Caller: I'd like to return it—please send a label. How long will the refund take once you receive it?
+7,7_6,2025-07-09,24000,Agent,Agent: Label emailed. Refund should post within 5-7 business days after receipt.
+8,8_1,2025-08-14,26100,Caller,"Caller: Hi, I noticed the same product is cheaper on Amazon. Do you guys offer price matching to keep things competitive?"
+8,8_2,2025-08-14,26100,Agent,Agent: We do price match within 7 days of purchase if you provide a link to the competitor's listing.
+8,8_3,2025-08-14,26100,Caller,"Caller: Great, here's the link: amazon.com/product. It's $10 less there."
+8,8_4,2025-08-14,26100,Agent,"Agent: Let me verify—yes, it qualifies. I'll adjust your order and refund the difference."
+8,8_5,2025-08-14,26100,Caller,"Caller: Awesome, that saves me some money. Thanks for being flexible about this."
+9,9_1,2025-09-25,19800,Caller,Caller: My promotional code isn't working on the sale items in my cart. Is there a restriction I'm missing?
+9,9_2,2025-09-25,19800,Agent,Agent: Some codes exclude sale items. Which code are you trying to use?
+9,9_3,2025-09-25,19800,Caller,Caller: It's WELCOME10. Maybe there's another one I can use instead?
+9,9_4,2025-09-25,19800,Agent,"Agent: That one is for full-price only. Try NEWUSER15, which should work on everything."
+9,9_5,2025-09-25,19800,Caller,Caller: It applied! Thanks for the tip.
+10,10_1,2025-10-30,30000,Caller,"Caller: Hello, I need to update the payment method on my account because my old card expired."
+10,10_2,2025-10-30,30000,Agent,"Agent: No problem. Are you logged in, or do you have a specific order number?"
+10,10_3,2025-10-30,30000,Caller,Caller: Order 33445. I want to switch to a new Visa card.
+10,10_4,2025-10-30,30000,Agent,Agent: I've updated it. Can you confirm if the new charge goes through correctly?
+10,10_5,2025-10-30,30000,Caller,"Caller: Yes, it looks good now. Just to be sure, will this apply to future subscriptions too?"
+10,10_6,2025-10-30,30000,Agent,"Agent: Absolutely, it's updated across your account."
+11,11_1,2024-11-03,24600,Caller,"Caller: The laptop charger I bought doesn't fit my HP model at all—it's for Dell, I think. This is a mix-up."
+11,11_2,2024-11-03,24600,Agent,Agent: Apologies for the error. What's the order ID so I can correct this?
+11,11_3,2024-11-03,24600,Caller,Caller: 55667. I need the right one ASAP as my battery is dying.
+11,11_4,2024-11-03,24600,Agent,Agent: We'll rush a replacement. Expect it in 2 days with expedited shipping at no cost.
+11,11_5,2024-11-03,24600,Caller,Caller: That's a relief. Thanks for handling it quickly.
+12,12_1,2024-12-18,27300,Caller,"Caller: Hi, can I get a discount if I bundle a shirt and pants together? I'm shopping for work clothes."
+12,12_2,2024-12-18,27300,Agent,"Agent: Yes, we have bundle deals—10% off for matching sets like that."
+12,12_3,2024-12-18,27300,Caller,Caller: Sounds good. Can you help add them to my cart? The navy shirt and black pants.
+12,12_4,2024-12-18,27300,Agent,"Agent: Added, and the discount applied automatically. Ready to check out?"
+12,12_5,2024-12-18,27300,Caller,"Caller: Yes, thanks. One more—do you have sizing guides?"
+12,12_6,2024-12-18,27300,Agent,"Agent: Absolutely, check the product pages or I can email them."
+13,13_1,2024-01-07,20700,Caller,"Caller: My delivery was left at the wrong house down the street. Luckily, the neighbor brought it over, but this could have been bad."
+13,13_2,2024-01-07,20700,Agent,Agent: We're sorry for the mix-up with the carrier. Was everything intact?
+13,13_3,2024-01-07,20700,Caller,"Caller: Yes, but I'd like a refund on the shipping fee as compensation."
+13,13_4,2024-01-07,20700,Agent,Agent: Fair enough—I've credited it back to your account.
+13,13_5,2024-01-07,20700,Caller,Caller: Appreciate that. Please note the correct address for future orders.
+14,14_1,2024-02-21,33000,Caller,"Caller: Hello, I'm curious if your products are eco-friendly. Specifically, the clothing line— what materials do you use?"
+14,14_2,2024-02-21,33000,Agent,"Agent: Our clothing is made from recycled fabrics and organic cotton, with certifications for sustainability."
+14,14_3,2024-02-21,33000,Caller,Caller: That's impressive. Do you have any third-party verifications I can look up?
+14,14_4,2024-02-21,33000,Agent,"Agent: Yes, we're GOTS certified. I can send links if you'd like."
+14,14_5,2024-02-21,33000,Caller,Caller: Please do. I'm going to buy a couple of shirts now. Thanks!
+14,14_6,2024-02-21,33000,Agent,Agent: Email sent. Happy shopping!
+15,15_1,2024-03-14,17700,Caller,Caller: I can't seem to find my wish list on the site anymore. It was there yesterday.
+15,15_2,2024-03-14,17700,Agent,Agent: Are you logged into the correct account? Sometimes they get hidden.
+15,15_3,2024-03-14,17700,Caller,"Caller: Yes, but it's empty now. Can you restore it?"
+15,15_4,2024-03-14,17700,Agent,"Agent: Let me check our backup—yes, I've restored it for you."
+15,15_5,2024-03-14,17700,Caller,"Caller: Phew, thanks a lot."
+16,16_1,2024-04-29,28800,Caller,Caller: The color of the sweater I received is way off from the photo online—it's more brown than beige.
+16,16_2,2024-04-29,28800,Agent,"Agent: Colors can vary due to screen settings, but if it's not what you expected, we can arrange a return."
+16,16_3,2024-04-29,28800,Caller,"Caller: Yes, please. Order 77889. Will I get free return shipping?"
+16,16_4,2024-04-29,28800,Agent,"Agent: Absolutely, label on the way. Would you like a different color as replacement?"
+16,16_5,2024-04-29,28800,Caller,"Caller: No, just a refund. Thanks for understanding."
+17,17_1,2024-05-11,22800,Caller,"Caller: Hi, do you provide installation services for large appliances like refrigerators?"
+17,17_2,2024-05-11,22800,Agent,"Agent: We do for an additional fee of $50, including haul-away of the old one."
+17,17_3,2024-05-11,22800,Caller,Caller: Perfect for my new fridge order. Can you schedule it?
+17,17_4,2024-05-11,22800,Agent,"Agent: Sure, what date works? Let's say next Tuesday."
+17,17_5,2024-05-11,22800,Caller,Caller: Tuesday is good. Confirm the address?
+17,17_6,2024-05-11,22800,Agent,Agent: All set. See you then.
+18,18_1,2024-06-26,26700,Caller,"Caller: My coupon code expired yesterday, but I just found out about it. Can you make an exception and honor it?"
+18,18_2,2024-06-26,26700,Agent,"Agent: As a one-time courtesy, yes. What's the code?"
+18,18_3,2024-06-26,26700,Caller,Caller: SUMMER20. It's for 20% off.
+18,18_4,2024-06-26,26700,Agent,Agent: Applied to your cart. Proceed when ready.
+18,18_5,2024-06-26,26700,Caller,Caller: You're a lifesaver. Thanks!
+19,19_1,2024-07-09,20400,Caller,"Caller: Hello, could you help me track my package? I have the order number."
+19,19_2,2024-07-09,20400,Agent,"Agent: Sure, what's the number?"
+19,19_3,2024-07-09,20400,Caller,Caller: 99001. It was supposed to arrive yesterday.
+19,19_4,2024-07-09,20400,Agent,Agent: It shows out for delivery today. Should be there by evening.
+19,19_5,2024-07-09,20400,Caller,"Caller: Okay, I'll keep an eye out. Thanks."
+20,20_1,2024-08-24,29700,Caller,"Caller: The item I ordered is now out of stock, but my order went through. What's going on?"
+20,20_2,2024-08-24,29700,Agent,"Agent: It's on backorder, expected in 2 weeks. Or we can cancel if you prefer."
+20,20_3,2024-08-24,29700,Caller,"Caller: I'd rather cancel and get a refund, please."
+20,20_4,2024-08-24,29700,Agent,Agent: Refund processed. Sorry for the delay.
+20,20_5,2024-08-24,29700,Caller,"Caller: No worries, thanks for the quick fix."
+20,20_6,2024-08-24,29700,Agent,Agent: Let me know if you need alternatives.
+21,21_1,2024-09-16,23400,Caller,"Caller: Hi, I need some help understanding your size chart for jeans. The measurements are confusing."
+21,21_2,2024-09-16,23400,Agent,"Agent: For jeans, measure your waist and inseam. Which style are you looking at?"
+21,21_3,2024-09-16,23400,Caller,Caller: The slim fit ones. My waist is 32 inches.
+21,21_4,2024-09-16,23400,Agent,Agent: That would be size 32. Inseam options are 30 or 32.
+21,21_5,2024-09-16,23400,Caller,Caller: I'll take 32/32. Thanks for clarifying.
+22,22_1,2024-10-31,25800,Caller,Caller: My product review isn't showing up on the site even after a few days.
+22,22_2,2024-10-31,25800,Agent,"Agent: Reviews go through moderation, but it shouldn't take long. Let me check."
+22,22_3,2024-10-31,25800,Caller,Caller: It's been over a week now.
+22,22_4,2024-10-31,25800,Agent,Agent: Found it—approved now. It should appear shortly.
+22,22_5,2024-10-31,25800,Caller,"Caller: Great, I appreciate the feedback system. Thanks."
+23,23_1,2024-11-13,18300,Caller,"Caller: Hello, does your store have a loyalty program for frequent shoppers?"
+23,23_2,2024-11-13,18300,Agent,"Agent: Yes, you earn points on every purchase, redeemable for discounts."
+23,23_3,2024-11-13,18300,Caller,"Caller: How do I sign up, and what are the benefits?"
+23,23_4,2024-11-13,18300,Agent,Agent: Just create an account on our site. Benefits include exclusive sales too.
+23,23_5,2024-11-13,18300,Caller,Caller: Signed up! Thanks for the info.
+24,24_1,2024-12-28,33600,Caller,Caller: The battery life on this watch is much shorter than what was advertised—only lasting a few hours.
+24,24_2,2024-12-28,33600,Agent,Agent: That doesn't sound right. Have you tried optimizing settings like turning off notifications?
+24,24_3,2024-12-28,33600,Caller,"Caller: Yes, I did all that. Still drains fast."
+24,24_4,2024-12-28,33600,Agent,Agent: Let's return it for inspection. I'll send a label.
+24,24_5,2024-12-28,33600,Caller,"Caller: Okay, hope the next one is better. Thanks."
+24,24_6,2024-12-28,33600,Agent,Agent: We'll make sure. Refund if needed.
+25,25_1,2023-01-10,17400,Caller,"Caller: Hi, can I use PayPal as a payment method on your checkout page?"
+25,25_2,2023-01-10,17400,Agent,"Agent: Yes, it's available at checkout."
+25,25_3,2023-01-10,17400,Caller,Caller: It's not showing up for me. What could be wrong?
+25,25_4,2023-01-10,17400,Agent,Agent: Try refreshing the page or clearing your cache.
+25,25_5,2023-01-10,17400,Caller,Caller: That worked. Thanks!
+26,26_1,2023-02-25,30600,Caller,"Caller: My order is delayed, and I need it soon. Why is it taking so long?"
+26,26_2,2023-02-25,30600,Agent,Agent: Due to recent weather disruptions in shipping routes. New ETA is next week.
+26,26_3,2023-02-25,30600,Caller,Caller: That's inconvenient. Can you compensate with free shipping on my next order?
+26,26_4,2023-02-25,30600,Agent,"Agent: Absolutely, I've added a credit to your account."
+26,26_5,2023-02-25,30600,Caller,Caller: Much better. Thanks for understanding.
+27,27_1,2023-03-19,22500,Caller,"Caller: Hello, is there any recall information on the toy set I bought last month?"
+27,27_2,2023-03-19,22500,Agent,Agent: Let me check—which specific set?
+27,27_3,2023-03-19,22500,Caller,Caller: The building blocks for kids aged 3-5.
+27,27_4,2023-03-19,22500,Agent,Agent: No recalls on that one. It's safe.
+27,27_5,2023-03-19,22500,Caller,Caller: Good to hear. Thanks for confirming.
+28,28_1,2023-04-04,27600,Caller,"Caller: I'm not receiving your promotional newsletters anymore, even though I'm subscribed."
+28,28_2,2023-04-04,27600,Agent,Agent: Have you checked your spam folder? Sometimes they end up there.
+28,28_3,2023-04-04,27600,Caller,"Caller: Yes, nothing. Can you resubscribe me or update?"
+28,28_4,2023-04-04,27600,Agent,Agent: Let's update your preferences. Should start coming again.
+28,28_5,2023-04-04,27600,Caller,Caller: Fixed now. Appreciate it.
+28,28_6,2023-04-04,27600,Agent,Agent: Glad to help.
+29,29_1,2023-05-29,20100,Caller,"Caller: Hi, do you offer discounts for bulk orders, like 20 custom shirts for an event?"
+29,29_2,2023-05-29,20100,Agent,"Agent: For orders over 10, we give 15% off."
+29,29_3,2023-05-29,20100,Caller,Caller: Excellent. How do I apply that?
+29,29_4,2023-05-29,20100,Agent,"Agent: Add to cart, and it'll apply at checkout."
+29,29_5,2023-05-29,20100,Caller,Caller: All set. Thanks!
+30,30_1,2023-06-11,29100,Caller,Caller: Your mobile app keeps crashing when I try to view my shopping cart.
+30,30_2,2023-06-11,29100,Agent,Agent: Sorry about that. Have you updated to the latest version?
+30,30_3,2023-06-11,29100,Caller,"Caller: Yes, still happening."
+30,30_4,2023-06-11,29100,Agent,"Agent: Try reinstalling. Meanwhile, use the website."
+30,30_5,2023-06-11,29100,Caller,Caller: Reinstall worked. Thanks for the suggestion.
+30,30_6,2023-06-11,29100,Agent,Agent: Update with fixes coming soon.
+31,31_1,2023-07-26,23100,Caller,"Caller: Hello, are there vegan options in your skincare products? I'm looking for something gentle."
+31,31_2,2023-07-26,23100,Agent,Agent: Many are vegan—look for the label. I recommend the aloe-based cream.
+31,31_3,2023-07-26,23100,Caller,Caller: Does it have any animal testing?
+31,31_4,2023-07-26,23100,Agent,"Agent: No, we're cruelty-free."
+31,31_5,2023-07-26,23100,Caller,Caller: Adding it now. Thanks!
+32,32_1,2023-08-08,28200,Caller,Caller: My package was stolen from the porch. What can I do about it?
+32,32_2,2023-08-08,28200,Agent,Agent: That's awful. We can file a claim with the carrier.
+32,32_3,2023-08-08,28200,Caller,Caller: How does that process work? Will I get a replacement?
+32,32_4,2023-08-08,28200,Agent,"Agent: Fill out the online form, and we'll resend or refund once approved."
+32,32_5,2023-08-08,28200,Caller,Caller: I'll do that. Thanks for guiding me.
+33,33_1,2023-09-23,18600,Caller,"Caller: Hi, I need to change the email address linked to my account."
+33,33_2,2023-09-23,18600,Agent,"Agent: Sure, first verify the old email by entering a code we'll send."
+33,33_3,2023-09-23,18600,Caller,Caller: Code received and entered.
+33,33_4,2023-09-23,18600,Agent,Agent: Updated to the new one.
+33,33_5,2023-09-23,18600,Caller,Caller: Quick and easy. Thanks.
+34,34_1,2023-10-15,33300,Caller,Caller: These wired headphones have terrible static noise right out of the box.
+34,34_2,2023-10-15,33300,Agent,Agent: That sounds defective. Have you tried a different device?
+34,34_3,2023-10-15,33300,Caller,"Caller: Yes, same issue."
+34,34_4,2023-10-15,33300,Agent,Agent: We'll replace them. Send back the old pair?
+34,34_5,2023-10-15,33300,Caller,"Caller: Yes, please provide a label."
+34,34_6,2023-10-15,33300,Agent,Agent: On its way. New ones shipping today.
+35,35_1,2023-11-30,17100,Caller,"Caller: Hello, do you extend return periods during the holidays?"
+35,35_2,2023-11-30,17100,Agent,"Agent: Yes, purchases from now until December can be returned by January 15."
+35,35_3,2023-11-30,17100,Caller,Caller: That's convenient for gifts.
+35,35_4,2023-11-30,17100,Agent,Agent: Shop with peace of mind.
+35,35_5,2023-11-30,17100,Caller,Caller: Will do. Thanks!
+36,36_1,2023-12-12,28800,Caller,Caller: My order arrived with extra items I didn't purchase. What should I do?
+36,36_2,2023-12-12,28800,Agent,Agent: That's our mistake—feel free to keep them as a gift.
+36,36_3,2023-12-12,28800,Caller,Caller: Really? That's generous.
+36,36_4,2023-12-12,28800,Agent,"Agent: Yes, enjoy the extras."
+36,36_5,2023-12-12,28800,Caller,"Caller: Wow, thanks a lot!"
+37,37_1,2025-01-27,23700,Caller,"Caller: Hi, does your website have accessibility features for visually impaired users?"
+37,37_2,2025-01-27,23700,Agent,"Agent: Yes, it's compatible with screen readers, and we have alt text on all images."
+37,37_3,2025-01-27,23700,Caller,"Caller: Great, that's important to me."
+37,37_4,2025-01-27,23700,Agent,"Agent: If you need more help, let us know."
+37,37_5,2025-01-27,23700,Caller,Caller: Will do. Thanks.
+38,38_1,2025-02-09,27900,Caller,Caller: The material on this dress is causing irritation on my skin—it's itchy.
+38,38_2,2025-02-09,27900,Agent,Agent: Sorry to hear that. Perhaps an allergic reaction. Want to return?
+38,38_3,2025-02-09,27900,Caller,"Caller: Yes, order 22334."
+38,38_4,2025-02-09,27900,Agent,Agent: Refund starting now. Send it back.
+38,38_5,2025-02-09,27900,Caller,Caller: Thanks for the hassle-free process.
+39,39_1,2025-03-24,19200,Caller,"Caller: Hello, how can I check the balance on my gift card?"
+39,39_2,2025-03-24,19200,Agent,"Agent: Provide the code, and I'll look it up."
+39,39_3,2025-03-24,19200,Caller,Caller: It's ABC123.
+39,39_4,2025-03-24,19200,Agent,Agent: You have $50 remaining.
+39,39_5,2025-03-24,19200,Caller,"Caller: Perfect, thanks."
+40,40_1,2025-04-06,29400,Caller,Caller: I need the assembly instructions for the desk I bought—they weren't in the box.
+40,40_2,2025-04-06,29400,Agent,Agent: No problem. I can email a PDF version.
+40,40_3,2025-04-06,29400,Caller,"Caller: Yes, please. My email is deskbuyer@email.com."
+40,40_4,2025-04-06,29400,Agent,"Agent: Sent. If you have questions during assembly, call back."
+40,40_5,2025-04-06,29400,Caller,Caller: Received it. Thanks so much!
+41,41_1,2025-05-21,24600,Caller,"Caller: Hi, can I return an item without the original receipt? I lost it."
+41,41_2,2025-05-21,24600,Agent,Agent: We can issue store credit if you have the order number or email.
+41,41_3,2025-05-21,24600,Caller,Caller: It's an online purchase—order 44556.
+41,41_4,2025-05-21,24600,Agent,Agent: Found it. Return approved for credit.
+41,41_5,2025-05-21,24600,Caller,Caller: That's fine. Thanks.
+42,42_1,2025-06-03,26100,Caller,Caller: The digital game code you sent isn't redeeming properly on the platform.
+42,42_2,2025-06-03,26100,Agent,Agent: Let's troubleshoot. Which platform?
+42,42_3,2025-06-03,26100,Caller,Caller: Steam.
+42,42_4,2025-06-03,26100,Agent,Agent: I'll resend a new code—try that.
+42,42_5,2025-06-03,26100,Caller,Caller: It worked this time. Appreciate the quick help.
+43,43_1,2025-07-18,18300,Caller,"Caller: Hello, do you carry pet-friendly cleaning products that won't harm my dog?"
+43,43_2,2025-07-18,18300,Agent,"Agent: Yes, our non-toxic line is safe for pets."
+43,43_3,2025-07-18,18300,Caller,Caller: Specifically for floors?
+43,43_4,2025-07-18,18300,Agent,"Agent: Absolutely, the floor cleaner is pet-safe."
+43,43_5,2025-07-18,18300,Caller,Caller: I'll order some. Thanks!
+44,44_1,2025-08-30,33900,Caller,"Caller: My subscription renewed without warning, and I wanted to cancel it."
+44,44_2,2025-08-30,33900,Agent,"Agent: Subscriptions auto-renew, but I can turn that off and issue a refund."
+44,44_3,2025-08-30,33900,Caller,Caller: Please do both.
+44,44_4,2025-08-30,33900,Agent,Agent: Done—refund for this cycle processed.
+44,44_5,2025-08-30,33900,Caller,Caller: Thanks for fixing it promptly.
+45,45_1,2025-09-12,17100,Caller,"Caller: Hi, can you compare two phone models for me? Battery life is key."
+45,45_2,2025-09-12,17100,Agent,"Agent: Model A has 12 hours, B has 8."
+45,45_3,2025-09-12,17100,Caller,Caller: What about camera quality?
+45,45_4,2025-09-12,17100,Agent,Agent: A is better there too.
+45,45_5,2025-09-12,17100,Caller,Caller: I'll go with A.
+46,46_1,2025-10-27,29700,Caller,Caller: The paint sample I got doesn't match the color on your site at all.
+46,46_2,2025-10-27,29700,Agent,"Agent: Samples can vary slightly, but if it's way off, return it."
+46,46_3,2025-10-27,29700,Caller,"Caller: Yes, it's not close."
+46,46_4,2025-10-27,29700,Agent,Agent: Send it back; we'll ship a new one free.
+46,46_5,2025-10-27,29700,Caller,Caller: Thanks. Hope the next is accurate.
+47,47_1,2024-11-09,23400,Caller,"Caller: Hello, can I extend the warranty on my electronics purchase?"
+47,47_2,2024-11-09,23400,Agent,"Agent: Yes, for $20 per year on most items."
+47,47_3,2024-11-09,23400,Caller,Caller: For the TV I bought.
+47,47_4,2024-11-09,23400,Agent,Agent: Added—now covered for 3 years.
+47,47_5,2024-11-09,23400,Caller,"Caller: Great, peace of mind."
+48,48_1,2024-12-24,27900,Caller,"Caller: My package arrived soaked from rain, but thankfully nothing damaged."
+48,48_2,2024-12-24,27900,Agent,Agent: Glad it's okay. We'll improve weather-proofing.
+48,48_3,2024-12-24,27900,Caller,Caller: Good to know for future.
+48,48_4,2024-12-24,27900,Agent,Agent: Noted on your account.
+48,48_5,2024-12-24,27900,Caller,Caller: Thanks anyway.
+49,49_1,2024-01-16,18900,Caller,"Caller: Hi, how do I unsubscribe from your email list? Too many coming in."
+49,49_2,2024-01-16,18900,Agent,"Agent: Click the link at the bottom, or I can do it."
+49,49_3,2024-01-16,18900,Caller,Caller: Please handle it for me.
+49,49_4,2024-01-16,18900,Agent,Agent: You're unsubscribed.
+49,49_5,2024-01-16,18900,Caller,Caller: Much better. Thanks.
+50,50_1,2024-02-01,30900,Caller,Caller: The toy I ordered is missing some pieces—my kid is upset.
+50,50_2,2024-02-01,30900,Agent,Agent: Sorry! Send a photo of what's missing?
+50,50_3,2024-02-01,30900,Caller,Caller: Emailing now.
+50,50_4,2024-02-01,30900,Agent,"Agent: Parts on the way, no charge."
+50,50_5,2024-02-01,30900,Caller,"Caller: Thanks, that'll make his day."
+51,51_1,2024-03-18,22200,Caller,"Caller: Hello, do you have a student discount program?"
+51,51_2,2024-03-18,22200,Agent,Agent: 10% off with valid ID.
+51,51_3,2024-03-18,22200,Caller,Caller: How do I apply it online?
+51,51_4,2024-03-18,22200,Agent,Agent: Upload ID at checkout.
+51,51_5,2024-03-18,22200,Caller,Caller: Easy enough. Thanks!
+52,52_1,2024-04-02,27000,Caller,Caller: My loyalty points aren't updating after my last purchase.
+52,52_2,2024-04-02,27000,Agent,Agent: It can take 48 hours. Let me check.
+52,52_3,2024-04-02,27000,Caller,Caller: It's been longer.
+52,52_4,2024-04-02,27000,Agent,Agent: Manually added now.
+52,52_5,2024-04-02,27000,Caller,Caller: Appreciate the fix.
+53,53_1,2024-05-17,19500,Caller,"Caller: Hi, are there eco-friendly shipping options available?"
+53,53_2,2024-05-17,19500,Agent,Agent: We offer carbon-neutral shipping at no extra cost.
+53,53_3,2024-05-17,19500,Caller,Caller: Does it slow down delivery?
+53,53_4,2024-05-17,19500,Agent,"Agent: No, same speed."
+53,53_5,2024-05-17,19500,Caller,Caller: Select that for my order.
+54,54_1,2024-06-29,32400,Caller,Caller: The software I downloaded won't install on my computer.
+54,54_2,2024-06-29,32400,Agent,Agent: Is your OS compatible? Windows or Mac?
+54,54_3,2024-06-29,32400,Caller,Caller: Windows 10.
+54,54_4,2024-06-29,32400,Agent,Agent: Run as administrator.
+54,54_5,2024-06-29,32400,Caller,Caller: That did it. Thanks!
+54,54_6,2024-06-29,32400,Agent,Agent: Glad it worked.
+55,55_1,2024-07-11,16800,Caller,"Caller: Hello, can I return an item that's been opened but unused?"
+55,55_2,2024-07-11,16800,Agent,"Agent: Yes, as long as it's in original condition."
+55,55_3,2024-07-11,16800,Caller,Caller: It's a shirt I tried on once.
+55,55_4,2024-07-11,16800,Agent,Agent: That's fine. Send label?
+55,55_5,2024-07-11,16800,Caller,"Caller: Yes, please."
+56,56_1,2024-08-26,29100,Caller,"Caller: My order is stuck in ""processing"" for days now."
+56,56_2,2024-08-26,29100,Agent,Agent: Let me see—payment cleared?
+56,56_3,2024-08-26,29100,Caller,"Caller: Yes, card was charged."
+56,56_4,2024-08-26,29100,Agent,Agent: Approved manually. Shipping soon.
+56,56_5,2024-08-26,29100,Caller,"Caller: Finally, thanks."
+57,57_1,2024-09-08,23100,Caller,"Caller: Hi, do your food products have allergy information?"
+57,57_2,2024-09-08,23100,Agent,"Agent: Yes, detailed on labels and site."
+57,57_3,2024-09-08,23100,Caller,Caller: Any with nuts?
+57,57_4,2024-09-08,23100,Agent,Agent: This snack is nut-free.
+57,57_5,2024-09-08,23100,Caller,Caller: I'll take it.
+58,58_1,2024-10-23,26100,Caller,Caller: The picture frame arrived bent out of shape.
+58,58_2,2024-10-23,26100,Agent,Agent: Likely shipping damage. Photo please?
+58,58_3,2024-10-23,26100,Caller,Caller: Sent.
+58,58_4,2024-10-23,26100,Agent,Agent: Replacement coming.
+58,58_5,2024-10-23,26100,Caller,Caller: Thanks for the swift action.
+59,59_1,2024-11-05,20100,Caller,"Caller: Hello, is there a virtual try-on feature for glasses?"
+59,59_2,2024-11-05,20100,Agent,"Agent: Yes, via our app."
+59,59_3,2024-11-05,20100,Caller,Caller: How do I access it?
+59,59_4,2024-11-05,20100,Agent,Agent: Download and upload photo.
+59,59_5,2024-11-05,20100,Caller,Caller: Sounds fun. Thanks!
+60,60_1,2024-12-20,31200,Caller,Caller: My referral code isn't applying for my friend.
+60,60_2,2024-12-20,31200,Agent,Agent: Has it expired?
+60,60_3,2024-12-20,31200,Caller,Caller: It's new.
+60,60_4,2024-12-20,31200,Agent,Agent: Fixed on our end.
+60,60_5,2024-12-20,31200,Caller,Caller: Try again—works! Thanks.
+61,61_1,2023-01-02,21600,Caller,"Caller: Hi, can I customize a product like engraving on a mug?"
+61,61_2,2023-01-02,21600,Agent,"Agent: Yes, for $5 extra."
+61,61_3,2023-01-02,21600,Caller,Caller: What font options?
+61,61_4,2023-01-02,21600,Agent,Agent: Several—script or block.
+61,61_5,2023-01-02,21600,Caller,Caller: Script please. Add it.
+62,62_1,2023-02-17,33300,Caller,"Caller: My package never showed up—tracking says delivered, but it's not here."
+62,62_2,2023-02-17,33300,Agent,Agent: Possible lost. Resend or refund?
+62,62_3,2023-02-17,33300,Caller,"Caller: Resend, please."
+62,62_4,2023-02-17,33300,Agent,Agent: New one shipping today.
+62,62_5,2023-02-17,33300,Caller,Caller: Thanks for resolving.
+63,63_1,2023-03-01,19200,Caller,"Caller: Hello, any senior discounts available?"
+63,63_2,2023-03-01,19200,Agent,Agent: 5% off for 65+.
+63,63_3,2023-03-01,19200,Caller,Caller: How to verify?
+63,63_4,2023-03-01,19200,Agent,Agent: At checkout with ID.
+63,63_5,2023-03-01,19200,Caller,Caller: Noted. Thanks.
+64,64_1,2023-04-16,29400,Caller,Caller: The perfume scent is overpowering—not what I expected.
+64,64_2,2023-04-16,29400,Agent,Agent: Scents are subjective. Return okay?
+64,64_3,2023-04-16,29400,Caller,"Caller: Yes, please."
+64,64_4,2023-04-16,29400,Agent,Agent: Label sent.
+64,64_5,2023-04-16,29400,Caller,Caller: Appreciate the policy.
+65,65_1,2023-05-28,24300,Caller,"Caller: Hi, can I bundle a camera with accessories for a deal?"
+65,65_2,2023-05-28,24300,Agent,"Agent: Yes, 20% savings bundle."
+65,65_3,2023-05-28,24300,Caller,Caller: Include tripod?
+65,65_4,2023-05-28,24300,Agent,Agent: Added to cart.
+65,65_5,2023-05-28,24300,Caller,Caller: Ready to buy. Thanks!
+66,66_1,2023-06-10,26700,Caller,Caller: The app crashes every time I log in.
+66,66_2,2023-06-10,26700,Agent,Agent: Update installed?
+66,66_3,2023-06-10,26700,Caller,Caller: Yes.
+66,66_4,2023-06-10,26700,Agent,Agent: Reinstall app.
+66,66_5,2023-06-10,26700,Caller,Caller: Fixed now. Great tip.
+67,67_1,2023-07-25,18300,Caller,"Caller: Hello, what about import duties for international orders?"
+67,67_2,2023-07-25,18300,Agent,Agent: Customers pay any duties.
+67,67_3,2023-07-25,18300,Caller,Caller: Can you estimate for $100 order?
+67,67_4,2023-07-25,18300,Agent,"Agent: Varies by country, around 10-20%."
+67,67_5,2023-07-25,18300,Caller,"Caller: Okay, thanks."
+68,68_1,2023-08-07,33600,Caller,Caller: You've sent the wrong size twice now—I'm getting frustrated.
+68,68_2,2023-08-07,33600,Agent,Agent: Deep apologies. System glitch noted.
+68,68_3,2023-08-07,33600,Caller,Caller: Can you upgrade to next size free?
+68,68_4,2023-08-07,33600,Agent,"Agent: Yes, and free shipping."
+68,68_5,2023-08-07,33600,Caller,Caller: That helps. Thanks.
+69,69_1,2023-09-22,17400,Caller,"Caller: Hi, how do I track the status of my return?"
+69,69_2,2023-09-22,17400,Agent,Agent: Have you shipped it back?
+69,69_3,2023-09-22,17400,Caller,"Caller: Yes, last week."
+69,69_4,2023-09-22,17400,Agent,Agent: Received—refund processing.
+69,69_5,2023-09-22,17400,Caller,Caller: How long?
+69,69_6,2023-09-22,17400,Agent,Agent: 3-5 days.
+70,70_1,2023-10-04,29700,Caller,Caller: These light bulbs burnt out after a day—poor quality.
+70,70_2,2023-10-04,29700,Agent,Agent: Possible bad batch. Replace?
+70,70_3,2023-10-04,29700,Caller,"Caller: All four, please."
+70,70_4,2023-10-04,29700,Agent,Agent: New set shipping.
+70,70_5,2023-10-04,29700,Caller,Caller: Thanks for the replacement.
+71,71_1,2023-11-19,23700,Caller,"Caller: Hello, military discount available?"
+71,71_2,2023-11-19,23700,Agent,Agent: 15% with ID verification.
+71,71_3,2023-11-19,23700,Caller,Caller: Online code?
+71,71_4,2023-11-19,23700,Agent,Agent: Use MIL15.
+71,71_5,2023-11-19,23700,Caller,Caller: Applied successfully. Thanks!
+72,72_1,2023-12-01,25800,Caller,Caller: Your site is loading really slowly today.
+72,72_2,2023-12-01,25800,Agent,Agent: High traffic—sorry. Order by phone?
+72,72_3,2023-12-01,25800,Caller,"Caller: Yes, let's do that."
+72,72_4,2023-12-01,25800,Agent,Agent: What items?
+72,72_5,2023-12-01,25800,Caller,Caller: Two books and a mug.
+73,73_1,2025-01-14,20400,Caller,"Caller: Hi, hypoallergenic jewelry options?"
+73,73_2,2025-01-14,20400,Agent,Agent: Nickel-free earrings and more.
+73,73_3,2025-01-14,20400,Caller,Caller: Specific for sensitive ears?
+73,73_4,2025-01-14,20400,Agent,"Agent: Yes, titanium posts."
+73,73_5,2025-01-14,20400,Caller,Caller: I'll take a pair.
+74,74_1,2025-02-26,32100,Caller,Caller: My order was cancelled without any notice—why?
+74,74_2,2025-02-26,32100,Agent,Agent: Item went out of stock suddenly.
+74,74_3,2025-02-26,32100,Caller,Caller: You should notify customers better.
+74,74_4,2025-02-26,32100,Agent,Agent: We're improving notifications. Refund issued.
+74,74_5,2025-02-26,32100,Caller,"Caller: Okay, thanks."
+75,75_1,2025-03-10,22500,Caller,"Caller: Hello, do you rent out products like formal dresses for events?"
+75,75_2,2025-03-10,22500,Agent,"Agent: Yes, select dresses available for rent."
+75,75_3,2025-03-10,22500,Caller,Caller: Sizes and styles?
+75,75_4,2025-03-10,22500,Agent,"Agent: Sizes 2-16, various colors."
+75,75_5,2025-03-10,22500,Caller,Caller: Book a red one in size 8.
+76,76_1,2025-04-25,27000,Caller,"Caller: The product manual came in Spanish, but I need English."
+76,76_2,2025-04-25,27000,Agent,Agent: Apologies—I'll send the English PDF.
+76,76_3,2025-04-25,27000,Caller,Caller: Email to manualneed@email.com.
+76,76_4,2025-04-25,27000,Agent,Agent: Sent. Check inbox.
+76,76_5,2025-04-25,27000,Caller,Caller: Got it. Thanks!
+77,77_1,2025-05-07,19500,Caller,"Caller: Hi, teacher discount program?"
+77,77_2,2025-05-07,19500,Agent,Agent: 10% off with school ID.
+77,77_3,2025-05-07,19500,Caller,Caller: How to submit proof?
+77,77_4,2025-05-07,19500,Agent,Agent: Email it to us.
+77,77_5,2025-05-07,19500,Caller,Caller: Sending now.
+78,78_1,2025-06-22,31500,Caller,Caller: The fabric on my new shirt faded after one wash.
+78,78_2,2025-06-22,31500,Agent,Agent: Did you follow the care instructions?
+78,78_3,2025-06-22,31500,Caller,"Caller: Yes, cold water and all."
+78,78_4,2025-06-22,31500,Agent,Agent: Must be defective—refund?
+78,78_5,2025-06-22,31500,Caller,"Caller: Yes, please. Thanks."
+79,79_1,2025-07-04,21600,Caller,"Caller: Hello, your live chat isn't working right now."
+79,79_2,2025-07-04,21600,Agent,Agent: Tech issue—sorry. What's your question?
+79,79_3,2025-07-04,21600,Caller,Caller: Order status for 66778.
+79,79_4,2025-07-04,21600,Agent,Agent: Shipped yesterday.
+79,79_5,2025-07-04,21600,Caller,Caller: Good to know.
+80,80_1,2025-08-19,26400,Caller,Caller: My promo codes aren't stacking on the order.
+80,80_2,2025-08-19,26400,Agent,Agent: Only one per order allowed.
+80,80_3,2025-08-19,26400,Caller,Caller: Can I use the better one?
+80,80_4,2025-08-19,26400,Agent,"Agent: Yes, apply the highest discount."
+80,80_5,2025-08-19,26400,Caller,Caller: Done. Thanks!
+81,81_1,2025-09-01,18600,Caller,"Caller: Hi, is your coffee sustainably sourced?"
+81,81_2,2025-09-01,18600,Agent,"Agent: Yes, fair trade certified."
+81,81_3,2025-09-01,18600,Caller,Caller: Great for ethics.
+81,81_4,2025-09-01,18600,Agent,Agent: We prioritize that.
+81,81_5,2025-09-01,18600,Caller,Caller: Ordering now.
+82,82_1,2025-10-16,30900,Caller,"Caller: Wrong billing address was used, causing extra fees."
+82,82_2,2025-10-16,30900,Agent,Agent: Let's update it immediately.
+82,82_3,2025-10-16,30900,Caller,Caller: And refund the difference?
+82,82_4,2025-10-16,30900,Agent,"Agent: Yes, processed."
+82,82_5,2025-10-16,30900,Caller,Caller: Thanks for correcting.
+83,83_1,2024-11-28,24000,Caller,"Caller: Hello, do you have an affiliate program I can join?"
+83,83_2,2024-11-28,24000,Agent,"Agent: Yes, sign up on our site for 5% commissions."
+83,83_3,2024-11-28,24000,Caller,Caller: Sounds good.
+83,83_4,2024-11-28,24000,Agent,Agent: Approval in 24 hours.
+83,83_5,2024-11-28,24000,Caller,Caller: Joining now.
+84,84_1,2024-12-10,25500,Caller,Caller: This item is discontinued—any similar alternatives?
+84,84_2,2024-12-10,25500,Agent,"Agent: Yes, upgraded model with better features."
+84,84_3,2024-12-10,25500,Caller,Caller: Compare specs?
+84,84_4,2024-12-10,25500,Agent,Agent: Improved camera and battery.
+84,84_5,2024-12-10,25500,Caller,Caller: Switch to that. Thanks.
+85,85_1,2024-01-25,21000,Caller,"Caller: Hi, stuck in a password reset loop on the site."
+85,85_2,2024-01-25,21000,Agent,Agent: Clear your browser cookies first.
+85,85_3,2024-01-25,21000,Caller,Caller: Still looping.
+85,85_4,2024-01-25,21000,Agent,Agent: I'll reset manually.
+85,85_5,2024-01-25,21000,Caller,Caller: Now it works.
+86,86_1,2024-02-07,29400,Caller,Caller: The vase I got cracked during shipping—it's fragile.
+86,86_2,2024-02-07,29400,Agent,"Agent: Sorry, we'll refund and improve packing."
+86,86_3,2024-02-07,29400,Caller,"Caller: Yes, please."
+86,86_4,2024-02-07,29400,Agent,Agent: Refund done.
+86,86_5,2024-02-07,29400,Caller,Caller: Thanks.
+87,87_1,2024-03-22,23100,Caller,"Caller: Hello, is there a buy-one-get-one deal on socks?"
+87,87_2,2024-03-22,23100,Agent,"Agent: Yes, mix and match."
+87,87_3,2024-03-22,23100,Caller,Caller: How does it apply?
+87,87_4,2024-03-22,23100,Agent,Agent: Auto in cart.
+87,87_5,2024-03-22,23100,Caller,Caller: Awesome.
+88,88_1,2024-04-04,27600,Caller,Caller: Delivery estimate was wrong—it's late.
+88,88_2,2024-04-04,27600,Agent,Agent: Glitch in system.
+88,88_3,2024-04-04,27600,Caller,Caller: Update please.
+88,88_4,2024-04-04,27600,Agent,Agent: New ETA tomorrow.
+88,88_5,2024-04-04,27600,Caller,Caller: Monitor it. Thanks.
+89,89_1,2024-05-19,18900,Caller,"Caller: Hi, are snacks gluten-free?"
+89,89_2,2024-05-19,18900,Agent,Agent: Marked on packaging.
+89,89_3,2024-05-19,18900,Caller,Caller: This one?
+89,89_4,2024-05-19,18900,Agent,"Agent: Yes, certified."
+89,89_5,2024-05-19,18900,Caller,Caller: Adding to cart.
+90,90_1,2024-06-01,31800,Caller,Caller: I think my account was hacked—strange orders.
+90,90_2,2024-06-01,31800,Agent,Agent: Change password now.
+90,90_3,2024-06-01,31800,Caller,"Caller: Done, cancel those orders."
+90,90_4,2024-06-01,31800,Agent,Agent: Cancelled and secured.
+90,90_5,2024-06-01,31800,Caller,Caller: Relieved. Thanks.
+91,91_1,2024-07-16,23400,Caller,"Caller: Hello, can you extend the flash sale? I missed it."
+91,91_2,2024-07-16,23400,Agent,"Agent: Unfortunately not, but another soon."
+91,91_3,2024-07-16,23400,Caller,Caller: Set an alert?
+91,91_4,2024-07-16,23400,Agent,"Agent: Yes, subscribed you."
+91,91_5,2024-07-16,23400,Caller,Caller: Thanks.
+92,92_1,2024-08-28,26100,Caller,Caller: The belt buckle snapped off already.
+92,92_2,2024-08-28,26100,Agent,Agent: Covered under warranty.
+92,92_3,2024-08-28,26100,Caller,Caller: Photo sent.
+92,92_4,2024-08-28,26100,Agent,Agent: Replace approved.
+92,92_5,2024-08-28,26100,Caller,Caller: New one soon?
+93,93_1,2024-09-10,20100,Caller,"Caller: Hi, returns from international addresses?"
+93,93_2,2024-09-10,20100,Agent,"Agent: Yes, but you pay shipping."
+93,93_3,2024-09-10,20100,Caller,Caller: Estimated cost?
+93,93_4,2024-09-10,20100,Agent,"Agent: Depends, $20-30."
+93,93_5,2024-09-10,20100,Caller,Caller: Noted.
+94,94_1,2024-10-25,30000,Caller,Caller: My order duplicated somehow—two charges.
+94,94_2,2024-10-25,30000,Agent,Agent: Cancel one and refund.
+94,94_3,2024-10-25,30000,Caller,"Caller: Yes, please."
+94,94_4,2024-10-25,30000,Agent,Agent: Handled.
+94,94_5,2024-10-25,30000,Caller,Caller: Thanks for fixing.
+95,95_1,2024-11-07,21900,Caller,"Caller: Hello, what color options for this bag?"
+95,95_2,2024-11-07,21900,Agent,"Agent: Red, blue, black."
+95,95_3,2024-11-07,21900,Caller,Caller: Green available?
+95,95_4,2024-11-07,21900,Agent,"Agent: Out, sorry."
+95,95_5,2024-11-07,21900,Caller,Caller: Blue it is.
+96,96_1,2024-12-22,28200,Caller,Caller: Site isn't optimized for mobile—hard to navigate.
+96,96_2,2024-12-22,28200,Agent,Agent: Try our app for better experience.
+96,96_3,2024-12-22,28200,Caller,Caller: Link please.
+96,96_4,2024-12-22,28200,Agent,Agent: Sent via text.
+96,96_5,2024-12-22,28200,Caller,Caller: Downloading. Thanks.
+97,97_1,2023-01-04,19200,Caller,"Caller: Hi, policy on reselling your products?"
+97,97_2,2023-01-04,19200,Agent,"Agent: No issues, go ahead."
+97,97_3,2023-01-04,19200,Caller,Caller: Good to know.
+97,97_4,2023-01-04,19200,Agent,Agent: Happy selling.
+97,97_5,2023-01-04,19200,Caller,Caller: Thanks!
+98,98_1,2023-02-19,30900,Caller,Caller: Printer ink is leaking everywhere.
+98,98_2,2023-02-19,30900,Agent,Agent: Seal intact?
+98,98_3,2023-02-19,30900,Caller,Caller: Yes.
+98,98_4,2023-02-19,30900,Agent,Agent: Defective—replace.
+98,98_5,2023-02-19,30900,Caller,Caller: Send new cartridge.
+99,99_1,2023-03-03,22200,Caller,"Caller: Hello, what's included in VIP membership?"
+99,99_2,2023-03-03,22200,Agent,"Agent: Free shipping, early access."
+99,99_3,2023-03-03,22200,Caller,Caller: Cost per year?
+99,99_4,2023-03-03,22200,Agent,Agent: $99.
+99,99_5,2023-03-03,22200,Caller,Caller: Signing up.
+100,100_1,2023-04-18,26700,Caller,Caller: Package was rerouted to the wrong city.
+100,100_2,2023-04-18,26700,Agent,Agent: Let's correct the address.
+100,100_3,2023-04-18,26700,Caller,Caller: Update to current one.
+100,100_4,2023-04-18,26700,Agent,"Agent: Fixed, arriving soon."
+100,100_5,2023-04-18,26700,Caller,Caller: Thanks for the help.
